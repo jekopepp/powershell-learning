@@ -4,14 +4,20 @@ Questa cartella contiene gli appunti personali raccolti durante lo studio di Pow
 
 Gli appunti serviranno per fissare i concetti importanti del corso e ripassarli facilmente in futuro. Ogni argomento potrà avere un file Markdown dedicato.
 
-## Argomenti previsti
+## Argomenti del corso
 
-- comandi e sintassi di base;
-- variabili, operatori e tipi di dati;
-- pipeline e filtri;
-- file, cartelle e permessi;
-- script, funzioni e gestione degli errori;
-- moduli e automazione.
+- Fondamenti e sintassi
+- Cmdlet, variabili e pipeline
+- Filtri e gestione oggetti
+- CSV e automazione
+- Condizioni e cicli
+- Funzioni e scripting
+- Error handling e logging
+- Windows Administration
+- Active Directory
+- Microsoft Graph / Microsoft 365
+- Azure PowerShell
+- PowerShell + Security
 
 ## Come organizzare gli appunti
 
